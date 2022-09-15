@@ -4,10 +4,12 @@ If Else in computer programming is a conditional statement that execute differen
 
 ## IF ELSE ELIF SYNTAX
 ### if
+```
 if condition:
     Body of if
 ```
 ### if, else
+```
 if condition:
     Body of if
 else: 
