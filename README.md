@@ -25,7 +25,8 @@ elif condition:
 else: 
     Body of else
 ```    
-[[https://github.com/LoopBreaks/Python_IF_ELSE/blob/4eb818cbc1514c30d038742190e377dc7ace8138/IF_ELSE_flow_graph1.png]]
+![](https://github.com/LoopBreaks/Python_IF_ELSE/blob/4eb818cbc1514c30d038742190e377dc7ace8138/IF_ELSE_flow_graph1.png)
+[[]]
 [[https://github.com/LoopBreaks/Python_IF_ELSE/blob/4eb818cbc1514c30d038742190e377dc7ace8138/IF_ELSE_flow_graph1.png]]
 [[https://github.com/LoopBreaks/Python_IF_ELSE/blob/4eb818cbc1514c30d038742190e377dc7ace8138/IF_ELSE_flow_graph2.png]]
 
