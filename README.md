@@ -1,4 +1,31 @@
 # Python_IF_ELSE
+## What is IF ELSE?
+If Else in computer programming is a conditional statement that execute different group of statement depends on wheather an condition is true or false.
+
+## IF ELSE ELIF SYNTAX
+### if
+if condition:
+    Body of if
+```
+### if, else
+if condition:
+    Body of if
+else: 
+    Body of else
+```
+
+### if, else, elif
+```
+if condition:
+    Body of if
+elif condition:
+    Body of elif
+else: 
+    Body of else
+```    
+
+
+#### Code that are in video
 ```
 # a = 10
 # b = 10
