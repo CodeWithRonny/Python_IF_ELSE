@@ -25,7 +25,7 @@ elif condition:
 else: 
     Body of else
 ```    
-![IF_ELSE_flow_graph1](/assets/images/IF_ELSE_flow_graph1.png)
+![IF_ELSE_flow_graph1](https://github.com/LoopBreaks/Python_IF_ELSE/blob/main/IF_ELSE_flow_graph2.png)
 
 ![IF_ELSE_flow_graph1](/assets/images/IF_ELSE_flow_graph1.png)
 ![IF_ELSE_flow_graph2](/assets/images/IF_ELSE_flow_graph2.png)
