@@ -25,10 +25,10 @@ elif condition:
 else: 
     Body of else
 ```    
-![](/assets/images/IF_ELSE_flow_graph1.png)
+![IF_ELSE_flow_graph1](/assets/images/IF_ELSE_flow_graph1.png)
 
-![](/assets/images/IF_ELSE_flow_graph1.png)
-![](/assets/images/IF_ELSE_flow_graph2.png)
+![IF_ELSE_flow_graph1](/assets/images/IF_ELSE_flow_graph1.png)
+![IF_ELSE_flow_graph2](/assets/images/IF_ELSE_flow_graph2.png)
 
 ## Code that are in video
 ```
